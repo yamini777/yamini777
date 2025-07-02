@@ -49,10 +49,13 @@
 <h3 align="left">Badges Earned (From GSSOC'24):</h3>
 
 <p align="left">
- <img src="https://gssoc.girlscript.tech/badges/postman.png?imwidth=150" alt="Postman" width="150px" height="150px" />
-  <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=150" alt="GSSoC Badge 1" width="150" height="150">
-  <img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=150" alt="GSSoC Badge 2" width="150" height="150">
-  <img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=150" alt="GSSoC Badge 3" width="150" height="150">
-  <img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=150" alt="GSSoC Badge 4" width="150" height="150">
-  <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=150" alt="GSSoC Badge 5" width="150" height="150">
+ <div style='display: flex; align-items: center; gap: 10px; justify-content: center; flex-wrap: nowrap;' align='center'>
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+</div>
+
 </p>
